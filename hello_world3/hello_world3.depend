@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1697709889 source:c:\users\aarav\onedrive\documents\codeblocks\hello_world3\main.c
+	<stdio.h>
+	<stdlib.h>
+
