@@ -16,7 +16,7 @@ int main()
     scanf("%f",&radius);
     printf("\nPERIMETER OF CIRCLE: %f ",2*3.14*radius);
     printf("\nAREA OF CIRCLE: %f ",radius*radius*3.14);
-    printf("\n\nPERIMETER OF SQAURE : %d ",4*side);
+    printf("\n\nPERIMETER OF SQAURE: %d ",4*side);
     printf("\nAREA OF SQUARE : %d ",side*side);
     printf("\n\nPERIMETER OF RECTANGLE : %d ",2*(l+b));
     printf("\nAREA OF RECTANGLE : %d ",l*b);

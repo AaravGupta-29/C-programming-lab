@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/aarav/OneDrive/Documents/CodeBlocks/fibonacci_sequence",
-      "program": "c:/Users/aarav/OneDrive/Documents/CodeBlocks/fibonacci_sequence/build/Debug/outDebug",
+      "cwd": "c:/Users/aarav/OneDrive/Documents/CodeBlocks/area_and_perimeter",
+      "program": "c:/Users/aarav/OneDrive/Documents/CodeBlocks/area_and_perimeter/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
