@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1701423299 source:c:\users\aarav\onedrive\documents\codeblocks\program to demonstrate string operations\main.c
+	<stdio.h>
+	<string.h>
+
