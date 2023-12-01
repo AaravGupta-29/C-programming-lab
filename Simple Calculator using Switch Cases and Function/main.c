@@ -1,6 +1,7 @@
 #include <stdio.h>
-
-int main(){
+#include<string.h>
+int main()
+{
     int a, b;
     char op;
     printf("Enter two numbers: ");
