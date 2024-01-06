@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1704523698 source:c:\users\aarav\onedrive\documents\codeblocks\use of malloc(), realloc() and free() function\main.c
+	<stdio.h>
+	<stdlib.h>
+
